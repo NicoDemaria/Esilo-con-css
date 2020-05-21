@@ -1,9 +1,29 @@
-h2 {
+h6 {
     color: darkblue;
 }
-h1 {
-    color: darkorchid;
+
+
+
+.titulo {
+    color: #00ff73;
 }
-h3 {
-    color: magenta;
+
+#id-element {
+    color: rgb(218, 20, 20);
+}
+
+[rancio="si"]{
+    color: #065252;
+}
+
+h1 p {
+    color: #e99b0c;
+}
+    
+h1 p b {
+    color: rgb(255, 0, 136);
+}
+
+[ColorBotones="si"] {
+    color: indianred;
 }
