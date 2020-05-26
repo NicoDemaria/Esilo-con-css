@@ -1,42 +1,55 @@
-h6 {
-    color: darkblue;
-}
-
-
-
 .titulo {
-    color: #00ff73;
+  color: #00ff73;
 }
 
 #id-element {
-    color: rgb(218, 20, 20);
+  color: rgb(218, 20, 20);
 }
 
-[rancio="si"]{
-    color: #065252;
+[rancio="si"] {
+  color: #065252;
 }
 
 h1 p {
-    color: #e99b0c;
+  color: #e99b0c;
 }
-    
+
 h1 p b {
-    color: rgb(255, 0, 136);
+  color: rgb(255, 0, 136);
 }
 
 [ColorBotones="si"] {
-    color: indianred;
+  color: indianred;
 }
-
-
 
 .Bloque1__Boton {
-    color: blueviolet;
+  color: blueviolet;
 }
 .Bloque1__Boton--Verde {
-    color: green;
+  color: green;
 }
 .Bloque1__Boton--Rojo {
-    color: red;
+  color: red;
 }
+.Bloque2__Titulo5--Tamano {
+  font-size: 4em;
+}
+.Bloque2__Titulo5--Tamano {
+  font-family: "Shadows Into Light", cursive;
+}
+
+.PropiedadesCajas {
+  background-color: crimson;
+  display: inline-block;
+  box-shadow: 5px 10px 25px 0 black;
+}
+.botonLink {
+    font-size: 100px;
+    background-color: rgb(1, 41, 114);
     
+    
+    
+}
+:link, a:visited, a:active {
+    text-decoration:none;
+}
